@@ -19,3 +19,4 @@ GET
  - INT: count latest reports
 
  
+s
